@@ -7,7 +7,7 @@ body{
 .main-box{
     margin: 20px;
     border: 1px solid black;
-    width: 380px;
+    width: auto;
     height: 380px;
 }
 .element-card{
