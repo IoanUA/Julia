@@ -6,14 +6,14 @@ body{
 }
 .main-box{
     margin: 100px;
-    width: 204px;
+    width: 179px;
     
 }
 .element-box{
 
-    width: 200px;
-    height: 300px;
-    border: 2px solid black;
+    width: 175px;
+    height: 250px;
+    border: 4px solid black;
 }
 
 .element-logo{
@@ -31,7 +31,7 @@ body{
     margin-top: 2px;
     text-align: end;
     font-weight: 500;
-    font-size: 30px;
+    font-size: 25px;
     line-height: calc(20/20);
     
 }
