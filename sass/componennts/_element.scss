@@ -1,0 +1,36 @@
+.main-box {
+    margin: 15px;
+    border: 1px solid black;
+    height: 360px;
+}
+
+.element-card {
+    width: 164px;
+    margin: auto;
+}
+
+.element-box {
+    margin-top: 40px;
+    height: 250px;
+    border: 3px solid black;
+}
+
+
+.element-logo {
+    font-style: normal;
+    font-size: 100px;
+    line-height: 55px;
+    color: #000000;
+    margin: 0px;
+    margin-top: 40px;
+    text-align: center;
+}
+
+.name-element {
+    margin-top: 2px;
+    text-align: end;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: calc(20 / 20);
+}
+
