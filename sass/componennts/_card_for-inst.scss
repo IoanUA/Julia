@@ -1,5 +1,6 @@
 .card_sokrat {
-  margin-top: 25%;
+  margin-top: auto;
+  margin-bottom: auto;
   text-align: center;
   letter-spacing: 5px;
   font-weight: 700;
@@ -7,18 +8,24 @@
   line-height: 50px;
 }
 .name_socr {
-  margin-top: 60px;
-
   text-align: center;
+  margin-top: auto;
+  margin-bottom: 20px;
 }
 
 .card_tolle {
-  margin-top: 15%;
+  margin-top: auto;
+  margin-bottom: auto;
   text-align: center;
   letter-spacing: 5px;
   font-weight: 700;
   font-size: 20px;
   line-height: 50px;
+}
+.name_tolle {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: 20px;
 }
 .card_fashion {
   margin-top: auto;
